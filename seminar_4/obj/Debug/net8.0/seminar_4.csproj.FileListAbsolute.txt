@@ -1,0 +1,14 @@
+/home/onor/sem4_ASOIU/seminar_4/bin/Debug/net8.0/seminar_4
+/home/onor/sem4_ASOIU/seminar_4/bin/Debug/net8.0/seminar_4.deps.json
+/home/onor/sem4_ASOIU/seminar_4/bin/Debug/net8.0/seminar_4.runtimeconfig.json
+/home/onor/sem4_ASOIU/seminar_4/bin/Debug/net8.0/seminar_4.dll
+/home/onor/sem4_ASOIU/seminar_4/bin/Debug/net8.0/seminar_4.pdb
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/seminar_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/seminar_4.AssemblyInfoInputs.cache
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/seminar_4.AssemblyInfo.cs
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/seminar_4.csproj.CoreCompileInputs.cache
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/seminar_4.dll
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/refint/seminar_4.dll
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/seminar_4.pdb
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/seminar_4.genruntimeconfig.cache
+/home/onor/sem4_ASOIU/seminar_4/obj/Debug/net8.0/ref/seminar_4.dll
